@@ -1,20 +1,27 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('../img/geometry.jpg');
+    background-image: url('img/places/background_fouitan.gif');
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 /* Main container for the slideshow and metadata */
 #photoBooth {
-    padding: 25px; /* Increased padding for better spacing */
-    max-width: 500px; /* Increased max-width for larger display */
-    width: 90%; /* Keeps width responsive */
+    padding: 25px;
+    /* Increased padding for better spacing */
+    max-width: 500px;
+    /* Increased max-width for larger display */
+    width: 90%;
+    /* Keeps width responsive */
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    /* Optional: Add shadow */
 }
 
 /* Holds the displayed photo */
@@ -34,7 +41,8 @@ body {
 
 /* Style for the title/banner */
 .banner {
-    font-size: 2rem; /* Increased font size for better readability */
+    font-size: 2rem;
+    /* Increased font size for better readability */
     font-weight: bold;
     color: #333;
     /* Optional: Customize the text color */
@@ -42,29 +50,35 @@ body {
 
 /* Style for the 'More Content' indicator */
 .moreIndicator {
-    height: 50px; /* Adjust size for a balanced look */
+    height: 50px;
+    /* Adjust size for a balanced look */
     width: 50px;
     cursor: pointer;
-    transition: transform 0.3s ease; /* Smooth rotation transition */
+    transition: transform 0.3s ease;
+    /* Smooth rotation transition */
     /* Add initial rotation styling here */
 }
 
 /* Navigation button styles */
 #nav img {
-    height: 50px; /* Adjust button size for responsiveness */
+    height: 50px;
+    /* Adjust button size for responsiveness */
     width: 50px;
     cursor: pointer;
-    transition: opacity 0.3s; /* Optional: Add hover effect */
+    transition: opacity 0.3s;
+    /* Optional: Add hover effect */
 }
 
 /* Metadata container styling */
 .details {
     border: 1px dashed #000;
     padding: 15px;
-    background-color: #f8f9fa; /* Light background to distinguish from main area */
+    background-color: #f8f9fa;
+    /* Light background to distinguish from main area */
     border-radius: 4px;
     color: #333;
-    font-size: 1rem; /* Slightly larger text for readability */
+    font-size: 1rem;
+    /* Slightly larger text for readability */
 }
 
 /* Style for each paragraph in details */
