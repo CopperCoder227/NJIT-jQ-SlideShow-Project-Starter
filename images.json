@@ -1,82 +1,58 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/places/Forest_location.webp",
+            "imgLocation": "Field",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
+            "imgPath": "img/places/Card_Castle_location.webp",
+            "imgLocation": "Card Castle",
             "description": "Austrian chapel",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "img/places/Cyber_Field_location.webp",
+            "imgLocation": "Cyber World",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
+            "imgPath": "img/places/Queen%27s_Mansion_location.webp",
+            "imgLocation": "Queen's Mansion",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
+            "imgPath": "img/places/tv_world.jpg",
+            "imgLocation": "TV World",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
+            "imgPath": "img/places/cold_place.png",
+            "imgLocation": "Cold Place",
             "description": "Taj Mahal",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
+            "imgPath": "img/places/Dark_Sanctiary.webp",
+            "imgLocation": "Dark Sanctuary",
             "description": "Venice",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
+            "imgPath": "img/places/dark_scantuary_3.jpg",
+            "imgLocation": "3rd Sanctuary",
             "description": "Hirosaki Castle",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
+            "imgPath": "img/places/Hometown_map.webp",
+            "imgLocation": "Hometown",
             "description": "Seoul",
             "date": "01/09/2016"
-        },
-        {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
         }
-  ]
+    ]
 }
