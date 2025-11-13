@@ -1,58 +1,88 @@
 {
     "images": [
         {
-            "imgPath": "img/places/Forest_location.webp",
+            "imgPath": "img/places/Castle_Town_location.webp",
             "imgLocation": "Field",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Ch 1",
+            "date": "The Closet Dark World is located in the school's supply closet and consists of two areas: ??????and Castle Town, the latter of which houses Ralsei's Castle and the Fountain of Darkness."
         },
         {
-            "imgPath": "img/places/Card_Castle_location.webp",
+            "imgPath": "img/places/Field_location.webp",
+            "imgLocation": "Field",
+            "description": "Ch 1",
+            "date": "The Field is an area at the start of Chapter 1 after entering through the Great Door. It has several red trees, as well as a floor of purple grass. There are also several clock puzzles and signs inside the Field. The Field features the Great Board as a sublocation, being seen at the Field's end. It is a linear set of rooms found near the end of the Field, with a black and white checkered floor. It has a few puzzles involving moving light patterns that send you to the start of the room when touched, as well as the enemies Ponman, and K. Round."
+        },
+        {
+            "imgPath": "img/places/Forest_location.webp",
+            "imgLocation": "Forest",
+            "description": "Ch 1",
+            "date": "The Forest is the next area after the Great Board, it is composed mainly of red plants, like red trees and bushes. It also contains a variety of Card Suit Puzzles, some for optional items and NPCs, and some required for progression. The Bake Sale is a sublocation partway through the Forest which contains 3 small shops, a Warp Door, and Malius. The Maze is a small challenge at the end of the Forest leading to Card Castle. It contains several enemies and obstacles seen throughout the Forest. This area cannot be backtracked to, as after completion the end of the maze now connects directly to the beginning."
+        },
+        {
+            "imgPath": "img/places/card_castle.webp",
             "imgLocation": "Card Castle",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "description": "Ch 1",
+            "date": "Card Castle is a 9 floor castle. There are 5 main floors which have an elevator connecting the top and bottom, 2 extra floors at the top (Serving as the battle arena for K.Round and King), 1 basement prison, and a secret prison for a special prisoner. Several rooms and floors in Card Castle are shaped like various card suits."
         },
         {
             "imgPath": "img/places/Cyber_Field_location.webp",
-            "imgLocation": "Cyber World",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgLocation": "Cyber Field",
+            "description": "Ch 2",
+            "date": "Cyber Field is the first area that Kris, Susie and Ralsei arrive in. It is a green-paletted path where Cyber City can be seen from a distance. Cyber Field consists of slightly branching paths, Sweet's bullet paths, keyboard puzzles, and teacup rides. Along the way, the party find the rebels, Sweet Cap'n Cakes. Susie and Ralsei learn their S/R-Actions through the encounter. At the upper northeast section is a rollercoaster segment, where the party encounters Berdly."
         },
         {
-            "imgPath": "img/places/Queen%27s_Mansion_location.webp",
+            "imgPath": "img/places/cyber_city.webp",
+            "imgLocation": "Cyber City",
+            "description": "Ch 2",
+            "date": "Cyber City is a robust city with Electro-Dashercars going through many of the city roads, and it is partially acts as a carnival. It is a blue-paletted city with colorful levitating advertisements, and various Addisons appear to offer their wares. Cyber City has a trash zone, multiple stoplight puzzles, Annoying Mouse Rooms, and cheese, which was left behind by Swatchlings. Far right end of the city is the Heights, which is a linear under construction segment where the party crosses structural steel."
+        },
+        {
+            "imgPath": "img/places/Queens_Mansion_location.webp",
             "imgLocation": "Queen's Mansion",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "description": "Ch 2",
+            "date": "Queen's Mansion is located at the far-right of Cyber City. It is a blue-paletted three-floor mansion, which houses GIGA Queen at its center. Exiting and entering this area can only be done via a Warp Door. The first floor features Queen's portraits that spew fire, Swatch's Color Cafe shop, and the Guest Hall, where Kris, Susie and Berdly are temporarily held captive. The second floor has assorted platters and guests attending. The third floor is nearly entirely centered around the Acid Tunnel, where Kris and Ralsei cross atop a swan boat. At the rooftop is Noelle's room, and where the party can confront Queen."
+        },
+        {
+            "imgPath": "img/places/green_room.jpg",
+            "imgLocation": "Green Room",
+            "description": "Ch 3",
+            "date": "The Green Room is the break room during TV Time's Board 1 and 2. The rooms Kris can access depends on their Rank at the end of each round. Kris can choose to replay the secondary minigames of each round, such as the Cooking Show and Rock Video depending on their progress. Kris can also unlock and play the Monster Movie minigame, which adds it to the pool of minigames during Tenna's boss fight. POINTs can be used to purchase items from the vending machines, or Dark Dollars can be exchanged for POINTs."
         },
         {
             "imgPath": "img/places/tv_world.jpg",
             "imgLocation": "TV World",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "description": "Ch 3",
+            "date": "The TV World is the Dark World in Chapter 3 of Deltarune, created inside the Dreemurr Residence. It mostly revolves around Tenna and his TV Time show."
         },
         {
             "imgPath": "img/places/cold_place.png",
             "imgLocation": "Cold Place",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "description": "Ch 3",
+            "date": "The Cold Place is a freezing area that can be found outside and at the far east side of the Green Room. The Dreemurr Residence's Dark Fountain can be seen from a distance in this area. As Kris, Susie and Ralsei venture further east in this area for the first time, they are mortified to see Toriel is asleep and captured. After traversing TV World and reaching the Cold Place again, they battle Tenna, then the Knight."
         },
         {
             "imgPath": "img/places/Dark_Sanctiary.webp",
             "imgLocation": "Dark Sanctuary",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "description": "Ch 4",
+            "date": "The Dark Sanctuary is the first Dark World of the Dark Sanctuaries. It was created from the Church's lobby, storage room, and Father Alvin's office. It is the largest of the three Sanctuaries, and has multiple sub-areas within it. Additionally, it is the only Dark World that has a functional version of Gerson's Study. The Dark Sanctuary takes the form of a massive cathedral with sprawling ornate architecture, massive bookshelves, and numerous floating glass tapestries depicting the Prophecy. Statue forms of Darkners can be found, which are regarded as ancestors by the active Darkners. After the door to the 3rd Sanctuary is opened in the Light World, its darkness spills out into the lobby of the church and recreates the original Dark Sanctuary, only with all of the statues restored to life."
         },
         {
-            "imgPath": "img/places/dark_scantuary_3.jpg",
+            "imgPath": "img/places/second_secantuary.webp",
+            "imgLocation": "2nd Sanctuary",
+            "description": "Ch 4",
+            "date": "The 2nd Sanctuary is the second Dark World of the Dark Sanctuaries. It was created by Susie in an effort to revive Gerson's Darkner form to ask him for the church's lock code. It is a distorted version of the first Dark Sanctuary, with repetitive architecture, geometry, and abstract appearance. It features an altered color palette and has pitch black rooms. Several locations from the original Dark Sanctuary are represented in the 2nd Sanctuary, but all of them have been warped in some way. In the Second Sanctuary, Darkners from the First Sanctuary have turned to stone, and the "ancestor" Darkners have been revived."
+        },
+        {
+            "imgPath": "img/places/third_scantuary.webp",
             "imgLocation": "3rd Sanctuary",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "description": "Ch 4",
+            "date": "The 3rd Sanctuary was made from the main room of the Church. It is filled with the tapestries of the Prophecy and retains both the warped architecture from the 2nd Sanctuary and the original unwarped rooms from the first Dark Sanctuary. None of the Darkners in this world are statues, meaning Darkners from the first and second Sanctuaries both appear at once. The first Dark Sanctuary can be backtracked to within the 3rd Sanctuary, though with slight changes due to the 2nd Sanctuary's Darkners no longer being statues."
         },
         {
             "imgPath": "img/places/Hometown_map.webp",
             "imgLocation": "Hometown",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "description": "Ch 1-4",
+            "date": "Hometown is the primary location in Deltarune. It is currently the only Light World area available, and many Lightners met during the game live there. Depending on the Chapter, a new Dark World appears somewhere in the town. Events can slightly vary based on if a Completion FILE is used per Chapter."
         }
     ]
 }
