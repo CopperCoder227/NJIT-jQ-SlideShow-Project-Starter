@@ -51,13 +51,18 @@ body {
 /* Style for the 'More Content' indicator */
 .moreIndicator {
     height: 50px;
-    /* Adjust size for a balanced look */
     width: 50px;
     cursor: pointer;
     transition: transform 0.3s ease;
-    /* Smooth rotation transition */
-    /* Add initial rotation styling here */
+    transform: rotate(90deg);
+    /* default facing right */
 }
+
+.moreIndicator.open {
+    transform: rotate(270deg);
+    /* facing downward */
+}
+
 
 /* Navigation button styles */
 #nav img {
@@ -86,20 +91,17 @@ body {
     margin: 10px 0;
 }
 
-/* Add CSS styles to rotate the element 90deg
-Make it animate nicely. You'll need CSS3 for this */
 .rot90 {
-    /* Add 90-degree rotation */
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
 }
 
-/* Add CSS styles to rotate the element 180deg
-Make it animate nicely. You'll need CSS3 for this */
 .rot180 {
-    /* Add 180-degree rotation */
+    transform: rotate(180deg);
+    transition: transform 0.3s ease;
 }
 
-/* Add CSS styles to rotate the element 270deg
-Make it animate nicely. You'll need CSS3 for this */
 .rot270 {
-    /* Add 270-degree rotation */
+    transform: rotate(270deg);
+    transition: transform 0.3s ease;
 }

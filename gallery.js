@@ -93,3 +93,9 @@ function stopSong() {
     currentAudio = null;
   }
 }
+
+$(document).ready(function () {
+  $(".moreIndicator").on("click", function () {
+    $(this).toggleClass("open");
+  });
+});
