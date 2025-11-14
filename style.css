@@ -61,8 +61,7 @@ body {
 .moreIndicator.open {
     transform: rotate(180deg);
     /* facing upward (reverse) */
-    filter:
-        invert(74%) sepia(92%) saturate(4500%) hue-rotate(1deg) brightness(104%) contrast(105%);
+    filter: invert(74%) sepia(92%) saturate(4500%) hue-rotate(1deg) brightness(104%) contrast(105%);
     /* yellow tint */
 }
 
