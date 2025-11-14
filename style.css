@@ -53,14 +53,17 @@ body {
     height: 50px;
     width: 50px;
     cursor: pointer;
-    transition: transform 0.3s ease;
-    transform: rotate(90deg);
-    /* default facing right */
+    transition: transform 0.5s ease, filter 0.5s ease;
+    /* default facing downward (normal) */
+    filter: none;
 }
 
 .moreIndicator.open {
-    transform: rotate(270deg);
-    /* facing downward */
+    transform: rotate(180deg);
+    /* facing upward (reverse) */
+    filter:
+        invert(74%) sepia(92%) saturate(4500%) hue-rotate(1deg) brightness(104%) contrast(105%);
+    /* yellow tint */
 }
 
 
